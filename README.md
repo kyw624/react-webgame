@@ -6,7 +6,7 @@
 
 ## 사용된 라이브러리/프레임워크
 
-````json
+```json
  "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
@@ -22,5 +22,4 @@
     "webpack": "^5.76.3",
     "webpack-cli": "^5.0.1",
     "webpack-dev-server": "^4.13.1"
-    ```
-````
+```
