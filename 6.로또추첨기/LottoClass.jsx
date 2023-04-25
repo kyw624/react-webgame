@@ -54,7 +54,7 @@ class LottoClass extends Component {
   }
 
   componentDidUpdate(prevProps, prevState) {
-    if (this.state.timeouts.length === 0) {
+    if (this.state.winBalls.length === 0) {
       // redo 버튼 클릭
       // 다른 state들로도 조건문 작성 가능
       this.runTimeouts();
